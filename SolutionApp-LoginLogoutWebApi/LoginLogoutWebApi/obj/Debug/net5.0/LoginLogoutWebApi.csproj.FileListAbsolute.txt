@@ -47,7 +47,6 @@ C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -67,3 +66,4 @@ C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Humanizer.dll
 C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Angular\Login_Logout_Git\Login-Logout-Angular\SolutionApp-LoginLogoutWebApi\LoginLogoutWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
